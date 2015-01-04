@@ -1,0 +1,187 @@
+
+=======================================================
+Achieved When: Tue Jun 10 17:07:13 CST 2008
+
+Time: 10160 ms
+Velocity: 56 pts/s
+Fuel: 3610 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 400 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 4000 unit
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:07:32 CST 2008
+
+Time: 1650 ms
+Velocity: 70 pts/s
+Fuel: 260 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:07:37 CST 2008
+
+Time: 2310 ms
+Velocity: 70 pts/s
+Fuel: 222 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:08:16 CST 2008
+
+Time: 2400 ms
+Velocity: 13 pts/s
+Fuel: 214 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:09:39 CST 2008
+
+Time: 4160 ms
+Velocity: 72 pts/s
+Fuel: 3835 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 400 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 4000 unit
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:21:40 CST 2008
+
+Time: 1600 ms
+Velocity: 72 pts/s
+Fuel: 231 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:13:23 CST 2008
+
+Time: 1890 ms
+Velocity: 65 pts/s
+Fuel: 205 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:13:33 CST 2008
+
+Time: 3180 ms
+Velocity: 60 pts/s
+Fuel: 142 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:56:19 CST 2008
+
+Time: 3520 ms
+Velocity: 48 pts/s
+Fuel: 38 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:56:45 CST 2008
+
+Time: 2580 ms
+Velocity: 57 pts/s
+Fuel: 133 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:58:39 CST 2008
+
+Time: 2380 ms
+Velocity: 70 pts/s
+Fuel: 162 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================

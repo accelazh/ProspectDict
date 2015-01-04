@@ -1,0 +1,313 @@
+<synth>
+<style id="default">
+<font name="Times" style="BOLD" size="14"/>
+<state>
+<color value="#FFFFFF" type="FOREGROUND"/>
+</state></style><bind style="default" type="region" key=".*"/>
+
+<style id="textfield">
+<opaque value="true"/>
+<state>
+<font name="Times" size="14"/>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="TEXT_FOREGROUND"/>
+</state>
+<imagePainter method="textFieldBorder" path="pic\\tf.png" sourceInsets="8 12 12 12" paintCenter="false"/>
+<insets top="8" left="12" bottom="12" right="12"/>
+</style>
+<bind style="textfield" type="region" key="TextField"/>
+
+<style id="panel">
+<state>
+<color value="#000000" type="BACKGROUND"/>
+<color value="#FFFFFF" type="TEXT_FOREGROUND"/>
+</state>
+</style>
+<bind style="panel" type="region" key="Panel"/>
+
+
+<style id="generalbutton">
+
+      <state>
+
+    <imagePainter method="buttonBackground" path="pic\\generalButton.png"
+
+                  sourceInsets="1 12 1 12" paintCenter="true" stretch="true"/>
+
+    <insets top="1" left="1" bottom="1" right="1"/>
+
+    <font name="Times" style="BOLD" size="16"/>
+
+    <color type="TEXT_FOREGROUND" value="#FFFFFF"/>
+
+      </state>
+
+      <state value="MOUSE_OVER">
+
+    <imagePainter method="buttonBackground" path="pic\\generalButton_on.png"
+
+                  sourceInsets="1 12 1 12" paintCenter="true" stretch="true"/>
+
+    <insets top="1" left="1" bottom="1" right="1"/>
+
+    <color type="TEXT_FOREGROUND" value="#FFFFFF"/>
+
+      </state>
+
+      <state value="PRESSED">
+
+    <imagePainter method="buttonBackground" path="pic\\generalButton_press.png"
+
+                  sourceInsets="1 12 1 12" paintCenter="true" stretch="true"/>
+
+    <insets top="1" left="1" bottom="1" right="1"/>
+
+    <color type="TEXT_FOREGROUND" value="#FFFFFF"/>
+
+      </state>
+
+    <property key="Button.margin" type="insets" value="0 0 0 0"/>
+
+  </style>
+
+  <bind style="generalbutton" type="region" key="Button"/>
+
+
+
+<style id="button">
+
+      <state>
+
+    <imagePainter method="buttonBackground" path="pic\\button.png"
+
+                  sourceInsets="1 1 1 1" paintCenter="true" stretch="true"/>
+
+    <insets top="1" left="1" bottom="1" right="1"/>
+
+    <font name="Aharoni" size="16"/>
+
+    <color type="TEXT_FOREGROUND" value="#FFFFFF"/>
+
+      </state>
+
+      <state value="MOUSE_OVER">
+
+    <imagePainter method="buttonBackground" path="pic\\button_on.png"
+
+                  sourceInsets="1 1 1 1" paintCenter="true" stretch="true"/>
+
+    <insets top="1" left="1" bottom="1" right="1"/>
+
+    <color type="TEXT_FOREGROUND" value="#FFFFFF"/>
+
+      </state>
+
+      <state value="PRESSED">
+
+    <imagePainter method="buttonBackground" path="pic\\button_down.png"
+
+                  sourceInsets="1 1 1 1" paintCenter="true" stretch="true"/>
+
+    <insets top="1" left="1" bottom="1" right="1"/>
+
+    <color type="TEXT_FOREGROUND" value="#FFFFFF"/>
+
+      </state>
+
+    <property key="Button.margin" type="insets" value="0 0 0 0"/>
+
+  </style>
+
+  <bind style="button" type="name" key="buttonGo"/>
+
+<style id="textarea">
+<opaque value="true"/>
+<state>
+<font name="Times" size="14"/>
+<color value="#1B4B92" type="BACKGROUND"/>
+<color value="#FFFFFF" type="TEXT_FOREGROUND"/>
+</state>
+<imagePainter method="textAreaBorder" path="pic\\ta.png" sourceInsets="12 12 12 12" paintCenter="false"/>
+<insets top="12" left="12" bottom="12" right="12"/>
+</style>
+<bind style="textarea" type="region" key="TextArea"/>
+
+<style id="list">
+<opaque value="true"/>
+<state>
+<font name="Times" size="14"/>
+<color value="#1B4B92" type="BACKGROUND"/>
+<color value="#FFFFFF" type="TEXT_FOREGROUND"/>
+
+</state>
+<imagePainter method="listBorder" path="pic\\ta.png" sourceInsets="12 12 12 12" paintCenter="false"/>
+<insets top="12" left="12" bottom="12" right="12"/>
+</style>
+<bind style="list" type="region" key="List"/>
+
+<style id="popupmenu">
+<opaque value="true"/>
+<state>
+<font name="Times" size="12"/>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="FOREGROUND"/>
+</state>
+<imagePainter method="popupMenuBorder" path="pic\\popupmenu.png" sourceInsets="8 12 12 12" paintCenter="false"/>
+<insets top="8" left="12" bottom="12" right="12"/>
+</style>
+<bind style="popupmenu" type="region" key="PopupMenu"/>
+
+<style id="separator">
+<opaque value="true"/>
+<state>
+<font name="Times" size="12"/>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="FOREGROUND"/>
+</state>
+<imagePainter method="separatorBorder" path="pic\\separator.png" sourceInsets="1 1 1 1" paintCenter="true"/>
+</style>
+<bind style="separator" type="region" key="Separator"/>
+
+<style id="menuItem">
+<opaque value="true"/>
+<state>
+<font name="Times" size="12"/>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="FOREGROUND"/>
+</state>
+
+<state value="MOUSE_OVER">
+<color value="#00C0FF" type="BACKGROUND"/>
+</state>
+
+</style>
+<bind style="menuItem" type="region" key="MenuItem"/>
+
+<style id="menu">
+<opaque value="true"/>
+<state>
+<font name="Times" size="12"/>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="FOREGROUND"/>
+<imageIcon id="arrow_icon" path="pic\\arrowIcon.png"/>
+<property key="Menu.arrowIcon" value="arrow_icon"/>
+</state>
+
+<state value="SELECTED">
+<color value="#00C0FF" type="BACKGROUND"/>
+</state>
+</style>
+<bind style="menu" type="region" key="Menu"/>
+
+<style id="checkboxmenuitem">
+<imageIcon id="check_off" path="pic\\checkbox_off.png"/>
+<imageIcon id="check_on" path="pic\\checkbox_on.png"/>
+<property key="CheckBoxMenuItem.checkIcon" value="check_off"/>
+<state value="SELECTED">
+<property key="CheckBoxMenuItem.checkIcon" value="check_on"/>
+</state>
+
+</style><bind style="checkboxmenuitem" type="region" key="CheckBoxMenuItem"/>
+
+<style id="radiobuttonmenuitem">
+<imageIcon id="radio_off" path="pic\\radiobutton_off.png"/>
+<imageIcon id="radio_on" path="pic\\radiobutton_on.png"/>
+<property key="RadioButtonMenuItem.checkIcon" value="radio_off"/>
+<state value="SELECTED">
+<property key="RadioButtonMenuItem.checkIcon" value="radio_on"/>
+</state>
+
+</style><bind style="radiobuttonmenuitem" type="region" key="RadioButtonMenuItem"/>
+
+
+<style id="table">
+<opaque value="true"/>
+<state>
+<font name="Times" style="BOLD" size="14"/>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="FOREGROUND"/>
+</state>
+<imagePainter method="tableBorder" path="pic\\popupmenu.png" sourceInsets="2 2 2 2" paintCenter="false"/>
+<insets top="2" left="2" bottom="2" right="2"/>
+</style>
+<bind style="table" type="region" key="Table"/>
+
+<style id="tableheader">
+<opaque value="true"/>
+<state>
+<font name="Times" style="BOLD" size="16"/>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="FOREGROUND"/>
+</state>
+</style>
+<bind style="tableheader" type="region" key="TableHeader"/>
+
+
+<style id="tooltip">
+<opaque value="true"/>
+<state>
+<font name="Times" size="12"/>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="FOREGROUND"/>
+</state>
+<imagePainter method="toolTipBorder" path="pic\\popupmenu.png" sourceInsets="2 2 2 2" paintCenter="false"/>
+<insets top="1" left="1" bottom="1" right="1"/>
+</style>
+<bind style="tooltip" type="region" key="ToolTip"/>
+
+
+
+<style id="scrollbar">
+<state>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="FOREGROUND"/>
+</state>
+</style>
+<bind style="scrollbar" type="region" key="ScrollBar"/>
+
+<style id="arrowbutton">
+    <state>
+        <color value="#2E5B94" type="BACKGROUND"/>
+        <color value="#FFFFFF" type="FOREGROUND"/>
+    </state>
+</style>
+<bind style="arrowbutton" type="region" key="ArrowButton"/>
+
+
+<style id="scrollbartrack">
+    <state>
+        <color value="#2E5B94" type="BACKGROUND"/>
+        <color value="#FFFFFF" type="FOREGROUND"/>
+    </state>
+</style>
+<bind style="scrollbartrack" type="region" key="ScrollBarTrack"/>
+
+<style id="scrollbarthumb">
+    <state>
+         <color value="#3D89E9" type="BACKGROUND"/>
+         <color value="#FFFFFF" type="FOREGROUND"/>
+   </state>
+</style>
+<bind style="scrollbarthumb" type="region" key="ScrollBarThumb"/>
+
+
+<style id="scrollpane">
+<state>
+<color value="#3D89E9" type="BACKGROUND"/>
+<color value="#FFFFFF" type="FOREGROUND"/>
+</state>
+<imagePainter method="scrollPaneBorder" path="pic\\tf.png" sourceInsets="12 12 12 12" paintCenter="false"/>
+<insets top="12" left="12" bottom="12" right="12"/>
+</style>
+<bind style="scrollpane" type="region" key="ScrollPane"/>
+
+
+<style id="radiobutton">
+<property key="RadioButton.icon" value="radio_off"/>
+<state value="SELECTED">
+<property key="RadioButton.icon" value="radio_on"/>
+</state>
+
+</style><bind style="radiobutton" type="region" key="RadioButton"/>
+
+</synth>

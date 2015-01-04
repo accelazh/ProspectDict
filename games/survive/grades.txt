@@ -1,0 +1,1045 @@
+
+=======================================================
+Achieved When: Tue Jun 10 17:10:41 CST 2008
+
+Time: 73
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:10:43 CST 2008
+
+Time: 58
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:10:58 CST 2008
+
+Time: 91
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:11:13 CST 2008
+
+Time: 577
+
+====Current Settings ====
+Ball Average Velocity: 35.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:11:21 CST 2008
+
+Time: 112
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 2 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:11:24 CST 2008
+
+Time: 101
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 2 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:11:42 CST 2008
+
+Time: 636
+
+====Current Settings ====
+Ball Average Velocity: 35.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 2 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:12:53 CST 2008
+
+Time: 92
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:12:56 CST 2008
+
+Time: 150
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:12:59 CST 2008
+
+Time: 136
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:13:01 CST 2008
+
+Time: 97
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:13:04 CST 2008
+
+Time: 182
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:13:07 CST 2008
+
+Time: 115
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:22:17 CST 2008
+
+Time: 101
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:22:20 CST 2008
+
+Time: 98
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:22:22 CST 2008
+
+Time: 94
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:22:25 CST 2008
+
+Time: 139
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:22:26 CST 2008
+
+Time: 76
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:24:57 CST 2008
+
+Time: 119
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:25:24 CST 2008
+
+Time: 174
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:25:26 CST 2008
+
+Time: 97
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:25:28 CST 2008
+
+Time: 71
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:26:17 CST 2008
+
+Time: 218
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:26:19 CST 2008
+
+Time: 116
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:26:24 CST 2008
+
+Time: 282
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:26:26 CST 2008
+
+Time: 104
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:38:09 CST 2008
+
+Time: 282
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:43:06 CST 2008
+
+Time: 93
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:43:08 CST 2008
+
+Time: 69
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:43:11 CST 2008
+
+Time: 187
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:43:15 CST 2008
+
+Time: 231
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Tue Jun 10 17:43:23 CST 2008
+
+Time: 461
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:13:45 CST 2008
+
+Time: 94
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:13:48 CST 2008
+
+Time: 171
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:13:49 CST 2008
+
+Time: 57
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:13:52 CST 2008
+
+Time: 109
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:14:01 CST 2008
+
+Time: 550
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:14:28 CST 2008
+
+Time: 199
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:14:36 CST 2008
+
+Time: 506
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:14:41 CST 2008
+
+Time: 292
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:14:46 CST 2008
+
+Time: 233
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:14:48 CST 2008
+
+Time: 100
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Wed Jun 11 15:15:08 CST 2008
+
+Time: 1218
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:53:38 CST 2008
+
+Time: 243
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:53:44 CST 2008
+
+Time: 277
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:53:49 CST 2008
+
+Time: 51
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:53:58 CST 2008
+
+Time: 257
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:54:18 CST 2008
+
+Time: 470
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:54:25 CST 2008
+
+Time: 215
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:54:27 CST 2008
+
+Time: 141
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:54:45 CST 2008
+
+Time: 1065
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:54:48 CST 2008
+
+Time: 178
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:54:54 CST 2008
+
+Time: 296
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:54:55 CST 2008
+
+Time: 85
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:54:59 CST 2008
+
+Time: 149
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:55:13 CST 2008
+
+Time: 816
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:55:20 CST 2008
+
+Time: 385
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:55:23 CST 2008
+
+Time: 103
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:55:28 CST 2008
+
+Time: 241
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:55:31 CST 2008
+
+Time: 167
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:55:43 CST 2008
+
+Time: 773
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:55:55 CST 2008
+
+Time: 715
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 20:56:00 CST 2008
+
+Time: 244
+
+====Current Settings ====
+Ball Average Velocity: 250.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 9 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:23:12 CST 2008
+
+Time: 680
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:23:16 CST 2008
+
+Time: 244
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:23:18 CST 2008
+
+Time: 67
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:24:40 CST 2008
+
+Time: 277
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:24:42 CST 2008
+
+Time: 107
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:24:50 CST 2008
+
+Time: 486
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:24:52 CST 2008
+
+Time: 114
+
+====Current Settings ====
+Ball Average Velocity: 350.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 6 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:25:37 CST 2008
+
+Time: 167
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:25:41 CST 2008
+
+Time: 214
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:25:53 CST 2008
+
+Time: 722
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:25:55 CST 2008
+
+Time: 98
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:25:57 CST 2008
+
+Time: 71
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:26:00 CST 2008
+
+Time: 152
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:26:04 CST 2008
+
+Time: 225
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:26:11 CST 2008
+
+Time: 430
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:26:14 CST 2008
+
+Time: 122
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:26:16 CST 2008
+
+Time: 125
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:26:19 CST 2008
+
+Time: 136
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:26:21 CST 2008
+
+Time: 91
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:26:35 CST 2008
+
+Time: 874
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:26:57 CST 2008
+
+Time: 356
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:27:04 CST 2008
+
+Time: 383
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:27:08 CST 2008
+
+Time: 204
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:27:29 CST 2008
+
+Time: 152
+
+====Current Settings ====
+Ball Average Velocity: 200.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:27:33 CST 2008
+
+Time: 261
+
+====Current Settings ====
+Ball Average Velocity: 200.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:27:43 CST 2008
+
+Time: 545
+
+====Current Settings ====
+Ball Average Velocity: 200.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Sat Jun 14 21:28:00 CST 2008
+
+Time: 109
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Mon May 17 04:23:20 CST 2004
+
+Time: 261
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Mon May 17 04:23:26 CST 2004
+
+Time: 355
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Mon May 17 04:23:29 CST 2004
+
+Time: 167
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Mon May 17 04:23:32 CST 2004
+
+Time: 137
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
+
+=======================================================
+Achieved When: Mon May 17 04:23:41 CST 2004
+
+Time: 532
+
+====Current Settings ====
+Ball Average Velocity: 280.0 pts/s
+Craft Velocity: 400.0 pts/s^2
+Ball Generating Cycle: 5 10ms
+=======================================================
